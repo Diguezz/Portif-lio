@@ -4,8 +4,8 @@ img{
 }
 h1 {
     color: cornsilk;
-    padding: 0px 0px 15px 50px;
-
+    padding: 0px 0px 10px 50px;
+    font-size: 23px;
 }
 p {
     color: grey;
@@ -15,8 +15,9 @@ p {
 }
    
 .titulo {
-    font-size: large;
-    color: cornsilk
+    font-size: 25px;
+    color: cornsilk ;
+    padding: 30px 0px 20px 50px;
 }
 a{
     padding: 0px 0px 7px 50px;
@@ -26,3 +27,7 @@ a{
     width: 110px;
 }
 
+.kaka{
+    padding: 0px 0px 50px 0px ;
+    width: 300px;
+}
