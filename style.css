@@ -31,3 +31,29 @@ a{
     padding: 0px 0px 50px 0px ;
     width: 300px;
 }
+
+.giff {
+    padding: 0px 0px 10px 50px;
+}
+
+.icones {
+    width: 25px;
+    padding: 0px 0px 50px 0px ;
+}
+
+h2 {
+    color: cornsilk;
+    padding: 0px 0px 10px 50px;
+    font-size: 23px;
+}
+
+.lcor{
+    color: grey;
+    padding: 0px 0px 7px 50px;
+}
+
+.legende{
+    font-size: 25px;
+    color: cornsilk ;
+    padding: 30px 0px 20px 0px;
+}
